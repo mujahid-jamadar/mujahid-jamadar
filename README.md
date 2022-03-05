@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mujahid-jamadar
-- currntly I am software developer intern in Persistent Systems.
+- c I am currently software developer intern in Persistent Systems.
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning FSDS
 - 💞️ I’m looking to collaborate on ML project
